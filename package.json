@@ -15,6 +15,7 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "hashmap": "^2.4.0",
-    "open-graph-scraper": "^4.7.1"
+    "open-graph-scraper": "^4.7.1",
+    "socket.io": "^3.1.1"
   }
 }
